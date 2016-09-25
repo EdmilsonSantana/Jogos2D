@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="jogos2d.projetos.com.br.jogos2d">
+    package="br.com.projetos.jogodaforca">
 
     <application
         android:allowBackup="true"

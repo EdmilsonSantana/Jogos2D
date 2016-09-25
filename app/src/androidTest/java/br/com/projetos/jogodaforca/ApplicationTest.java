@@ -1,4 +1,4 @@
-package jogos2d.projetos.com.br.jogos2d;
+package jogodaforca.projetos.com.br.jogodaforca;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
